@@ -1,1 +1,5 @@
-# Simple_Calculator
+# Simple  Calculator
+
+The user gives input through buttons and the calculator performs simple operations like addition , subtraction, multiplication and division.
+
+Website Link :-
